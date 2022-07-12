@@ -1,0 +1,12 @@
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.Data\bin\Debug\net6.0\Quid.DP.Data.deps.json
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.Data\bin\Debug\net6.0\Quid.DP.Data.dll
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.Data\bin\Debug\net6.0\Quid.DP.Data.pdb
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.Data\obj\Debug\net6.0\Quid.DP.Data.csproj.AssemblyReference.cache
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.Data\obj\Debug\net6.0\Quid.DP.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.Data\obj\Debug\net6.0\Quid.DP.Data.AssemblyInfoInputs.cache
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.Data\obj\Debug\net6.0\Quid.DP.Data.AssemblyInfo.cs
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.Data\obj\Debug\net6.0\Quid.DP.Data.csproj.CoreCompileInputs.cache
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.Data\obj\Debug\net6.0\Quid.DP.Data.dll
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.Data\obj\Debug\net6.0\refint\Quid.DP.Data.dll
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.Data\obj\Debug\net6.0\Quid.DP.Data.pdb
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.Data\obj\Debug\net6.0\ref\Quid.DP.Data.dll

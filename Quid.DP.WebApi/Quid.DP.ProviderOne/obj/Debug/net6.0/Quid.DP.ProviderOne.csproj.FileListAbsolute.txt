@@ -1,0 +1,15 @@
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\bin\Debug\net6.0\Quid.DP.ProviderOne.deps.json
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\bin\Debug\net6.0\Quid.DP.ProviderOne.dll
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\bin\Debug\net6.0\Quid.DP.ProviderOne.pdb
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\bin\Debug\net6.0\Quid.DP.Data.dll
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\bin\Debug\net6.0\Quid.DP.Data.pdb
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\obj\Debug\net6.0\Quid.DP.ProviderOne.csproj.AssemblyReference.cache
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\obj\Debug\net6.0\Quid.DP.ProviderOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\obj\Debug\net6.0\Quid.DP.ProviderOne.AssemblyInfoInputs.cache
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\obj\Debug\net6.0\Quid.DP.ProviderOne.AssemblyInfo.cs
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\obj\Debug\net6.0\Quid.DP.ProviderOne.csproj.CoreCompileInputs.cache
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\obj\Debug\net6.0\Quid.DP.ProviderOne.csproj.CopyComplete
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\obj\Debug\net6.0\Quid.DP.ProviderOne.dll
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\obj\Debug\net6.0\refint\Quid.DP.ProviderOne.dll
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\obj\Debug\net6.0\Quid.DP.ProviderOne.pdb
+D:\Github\DependecyInjection\Quid.DP.WebApi\Quid.DP.ProviderOne\obj\Debug\net6.0\ref\Quid.DP.ProviderOne.dll

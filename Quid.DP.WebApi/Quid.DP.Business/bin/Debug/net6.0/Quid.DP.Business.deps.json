@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Quid.DP.Business/1.0.0": {
+        "dependencies": {
+          "Quid.DP.Data": "1.0.0"
+        },
+        "runtime": {
+          "Quid.DP.Business.dll": {}
+        }
+      },
+      "Quid.DP.Data/1.0.0": {
+        "runtime": {
+          "Quid.DP.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quid.DP.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Quid.DP.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

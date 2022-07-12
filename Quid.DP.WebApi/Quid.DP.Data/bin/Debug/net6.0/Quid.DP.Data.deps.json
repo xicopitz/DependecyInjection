@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Quid.DP.Data/1.0.0": {
+        "runtime": {
+          "Quid.DP.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quid.DP.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
