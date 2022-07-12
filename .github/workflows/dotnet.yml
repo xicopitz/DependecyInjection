@@ -18,8 +18,7 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Restore dependencies
-      working-directory: ./../Quid.DP.WebApi/
-      run: dotnet restore
+      run: pwd && ls -la
     - name: Build
       run: dotnet build --no-restore
     - name: Test
