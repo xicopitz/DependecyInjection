@@ -20,6 +20,6 @@ jobs:
     - name: Restore dependencies
       run: ./../Quid.DP.WebApi/ dotnet restore
     - name: Build
-      run: dotnet build --no-restore
+      run: ./../Quid.DP.WebApi/ dotnet build --no-restore
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: ./../Quid.DP.WebApi/ dotnet test --no-build --verbosity normal
