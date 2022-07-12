@@ -18,8 +18,8 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Restore dependencies
-      run: ./../Quid.DP.WebApi/ dotnet restore
+      run: cd ./../Quid.DP.WebApi/ && dotnet restore
     - name: Build
-      run: ./../Quid.DP.WebApi/ dotnet build --no-restore
+      run: cd ./../Quid.DP.WebApi/ && dotnet build --no-restore
     - name: Test
-      run: ./../Quid.DP.WebApi/ dotnet test --no-build --verbosity normal
+      run: cd ./../Quid.DP.WebApi/ && dotnet test --no-build --verbosity normal
