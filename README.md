@@ -6,10 +6,10 @@
  - 01.FrontEnd
 	 -  UI + API
  - 02.Business
-	 - Bridge to Services - nice to call multiple services and return a single object.
+	 - Bridge to Services - good to call multiple services and return a single object.
  - 04.Data
-	 - Service / Provider
-	 - Service / Provider
+	 - Service / Provider (Database or external service)
+	 - Service / Provider (Database or external service)
 
 # DI (Dependecy Injection)
 
